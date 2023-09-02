@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hdmi_video/src/piTFT&apos; to &apos;display&apos;" description="Rename resource &apos;piTFT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/piTFT" name="display" stamp="1681184563257" updateReferences="true"/>
+</session>

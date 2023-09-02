@@ -1,0 +1,10 @@
+21:14:54 **** Incremental Build of configuration Debug for project multithreading_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 61254 C:/Git/hdmi_video_out/VitisWorkspace/hdmi_video_out/export/hdmi_video_out/hdmi_video_out.xpfm freertos10_xilinx_ps7_cortexa9_0,freertos10_xilinx_ps7_cortexa9_1 C:/Git/hdmi_video_out/VitisWorkspace/multithreading_system/Debug/system.bif
+sdcard_gen --xpfm C:/Git/hdmi_video_out/VitisWorkspace/hdmi_video_out/export/hdmi_video_out/hdmi_video_out.xpfm --sys_config hdmi_video_out --bif C:/Git/hdmi_video_out/VitisWorkspace/multithreading_system/Debug/system.bif --bitstream C:/Git/hdmi_video_out/VitisWorkspace/multithreading/_ide/bitstream/hdmi_video_out.bit --elf C:/Git/hdmi_video_out/VitisWorkspace/multithreading/Debug/multithreading.elf,ps7_cortexa9_0 --elf C:/Git/hdmi_video_out/VitisWorkspace/led_control/Debug/led_control.elf,ps7_cortexa9_1
+creating BOOT.BIN using C:/Git/hdmi_video_out/VitisWorkspace/multithreading/_ide/bitstream/hdmi_video_out.bit
+Running C:/Xilinx/Vitis/2021.2/bin/bootgen  -image C:/Git/hdmi_video_out/VitisWorkspace/multithreading_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+21:15:09 Build Finished (took 14s.180ms)
+

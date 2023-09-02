@@ -1,0 +1,13 @@
+/* C:/Users/aterraza/AppData/Local/Temp/bootgen_multithreading_system165236897860090324/sd_card_temp/boot.bif */
+/* Command to create bitstream .bin file:       */
+/*   bootgen -image <bif_file> -split bin -w    */
+/* Command to create BOOT.BIN file:             */
+/*   bootgen  -image <bif_file> -w -o i BOOT.BIN */
+/*hdmi_video_out*/
+the_ROM_image:
+{
+ [bootloader] C:/Git/hdmi_video_out/VitisWorkspace/hdmi_video_out/export/hdmi_video_out/sw/hdmi_video_out/boot/fsbl.elf
+ C:/Git/hdmi_video_out/VitisWorkspace/multithreading/_ide/bitstream/hdmi_video_out.bit
+ C:/Git/hdmi_video_out/VitisWorkspace/multithreading/Debug/multithreading.elf
+ C:/Git/hdmi_video_out/VitisWorkspace/led_control/Debug/led_control.elf
+}

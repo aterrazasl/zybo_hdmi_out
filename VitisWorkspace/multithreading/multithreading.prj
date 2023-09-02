@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="multithreading" location="C:/Git/hdmi_video_out/VitisWorkspace/multithreading" platform="C:/Git/hdmi_video_out/VitisWorkspace/hdmi_video_out/export/hdmi_video_out/hdmi_video_out.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="multithreading_system" sysConfig="hdmi_video_out" runtime="C/C++" cpu="freertos10_xilinx_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="freertos10_xilinx" mssSignature="a4b180854638c153fa3183f4850355dc">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1934639913">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1076328492" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="freertos_hello_world"/>
+</sdkproject:SdkProject>

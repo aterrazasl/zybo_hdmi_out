@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="MP_STATE_VM"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="true"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="MP_STATE_VM"/>
+			<item value="mp_sys_argv_obj"/>
+			<item value="#include &quot;py/"/>
+			<item value="argv"/>
+			<item value="argc"/>
+			<item value="MICROPY_MIN_USE_STM32_MCU"/>
+			<item value="mp_hal_stdout_tx_strn_cooked"/>
+			<item value="print"/>
+			<item value="#include &quot;py"/>
+			<item value="&quot;py/"/>
+			<item value="/*-----------------------------------------------------------*/"/>
+			<item value="TICK_TIMER_FREQ_HZ"/>
+			<item value="XUARTPS_SR_OFFSET"/>
+			<item value="Task_ptr"/>
+			<item value="fifo"/>
+		</list>
+		<list key="replacehistory">
+			<item value="#include &quot;../py/"/>
+			<item value="#include &quot;.."/>
+			<item value="#include &quot;"/>
+			<item value="&quot;"/>
+			<item value=""/>
+			<item value="GFX_printText"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="245"/>
+		<item key="DIALOG_Y_ORIGIN" value="661"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="371"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

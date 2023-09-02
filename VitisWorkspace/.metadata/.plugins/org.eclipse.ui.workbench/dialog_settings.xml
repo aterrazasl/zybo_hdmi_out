@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_VIRTUAL_FOLDERS_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_LINKS_IN_WORKSPACE_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_SELECTED_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_NAME_ID" value="Edit Variables..."/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Git\micropython\lib"/>
+			<item value="C:\Git\micropython\shared"/>
+			<item value="C:\Git\micropython\ports\minimal"/>
+			<item value="C:\Git\micropython\ports\bare-arm"/>
+			<item value="C:\Git\micropython\py"/>
+			<item value="C:\Git\hdmi_video_out\VitisWorkspace\hdmi_video\src"/>
+			<item value="C:\Users\aterraza\Downloads\printf"/>
+			<item value="C:\Xilinx\Vitis\2021.2\data\embeddedsw\XilinxProcessorIPLib\drivers\ttcps_v3_14\examples"/>
+			<item value="C:\Xilinx\Vitis\2021.2\data\embeddedsw\XilinxProcessorIPLib\drivers\gpio_v4_8\examples"/>
+			<item value="C:\Xilinx\Vitis\2021.2\data\embeddedsw\XilinxProcessorIPLib\drivers\iicps_v3_14"/>
+		</list>
+	</section>
+</section>
